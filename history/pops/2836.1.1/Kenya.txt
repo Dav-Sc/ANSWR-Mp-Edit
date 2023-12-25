@@ -1,0 +1,642 @@
+#Rift Highlands Region (620000)
+#uncolonized in 1836
+#Nairobi (260000/65000 POPS)
+2024 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 925
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 475
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 2400
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 500
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 43700
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 200
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 100
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 550
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 125
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 10025
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 50
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 50
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 200
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 50
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 3650
+    }
+}
+#Nakuru (128000/32000 POPS)
+2027 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 150
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 125
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 400
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 75
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 17350
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 150
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 75
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 400
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 75
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 7300
+    }
+
+    slaves = {
+        culture = barot
+        religion = harami
+        size = 13000
+    }
+}
+#Garissa (172000/43000 POPS)
+2032 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 650
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 375
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 1750
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 350
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 31875
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 100
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 100
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 150
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 100
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 2700
+    }
+}
+#Upper barot Coast Region (304000)
+#ruled by kingdom of Oman in 1836
+#Mombasa (100000/25000 POPS)
+2029 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 200
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 100
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 550
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 1100
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 9150
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 100
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 50
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 300
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 50
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 500
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 175
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 100
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 500
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 100
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 9125
+    }
+
+    slaves = {
+        culture = barot
+        religion = harami
+        size = 3000
+    }
+}
+#uncolonized in 1836
+#Voi (104000/26000 POPS)
+2033 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 475
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 250
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 1300
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 250
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 20725
+    }
+
+    slaves = {
+        culture = barot
+        religion = harami
+        size = 3000
+    }
+
+}
+####afrikaan Kingdom####
+#Lamu (100000/25000 POPS)
+2030 = {
+    aristocrats = {
+        culture = afrikaan
+        religion = ancestor
+        size = 225
+    }
+
+    clergymen = {
+        culture = afrikaan
+        religion = ancestor
+        size = 125
+    }
+
+    artisans = {
+        culture = afrikaan
+        religion = ancestor
+        size = 500
+    }
+
+    soldiers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 125
+    }
+
+    farmers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 4025
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 225
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 125
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 600
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 125
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 5925
+    }
+
+    serfs = {
+        culture = barot
+        religion = harami
+        size = 7000
+    }
+}
+#Dar es Salaam (220000/55000 POPS)
+2036 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 950
+    }
+
+    bureaucrats = {
+        culture = barot
+        religion = harami
+        size = 75
+    }
+
+    officers = {
+        culture = barot
+        religion = harami
+        size = 125
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 525
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 2000
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 500
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 36825
+    }
+
+    slaves = {
+        culture = barot
+        religion = harami
+        size = 14000
+    }
+}
+#Tanga (88000/22000 POPS)
+2037 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 325
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 175
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 725
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 175
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 31600
+    }
+
+    slaves = {
+        culture = barot
+        religion = harami
+        size = 16000
+    }
+}
+#Morogoro (232000/58000 POPS)
+2045 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 225
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 475
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 1225
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 375
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 15600
+    }
+
+    slaves = {
+        culture = barot
+        religion = harami
+        size = 4000
+    }
+}
+#Arusha (80000/20000 POPS)
+2047 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 250
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 125
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 1525
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 500
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 27100
+    }
+    slaves = {
+        culture = barot
+        religion = harami
+        size = 14000
+    }
+}
+#Zanzibar Region (156000)
+#ruled by Oman in 1836
+#Zanzibar (156000/39000 POPS)
+2048 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 3250
+    }
+
+    bureaucrats = {
+        culture = barot
+        religion = harami
+        size = 475
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 425
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 10525
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 9100
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 17100
+    }
+    slaves = {
+        culture = barot
+        religion = harami
+        size = 24000
+    }
+
+}

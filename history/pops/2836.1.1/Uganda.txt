@@ -1,0 +1,309 @@
+#Uganda Region (1136000)
+#uncolonized in 1836/dominated by Buganda in 1836
+#Entebbe (400000/100000 POPS)
+2019 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 2000
+    }
+
+    bureaucrats = {
+        culture = barot
+        religion = harami
+        size = 450
+    }
+
+    officers = {
+        culture = barot
+        religion = harami
+        size = 150
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 1325
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 14000
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 1000
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 12000
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 68025
+    }
+}
+#Masindi (192000/48000 POPS)
+2021 = {
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 375
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 200
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 775
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 200
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 20450
+    }
+}
+#Kitgum (104000/26000 POPS)
+2022 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 375
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 200
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 775
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 200
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 24450
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 125
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 75
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 350
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 75
+    }
+}
+#Jinja (208000/52000 POPS)
+2023 = {
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 2575
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 3750
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 52850
+    }
+
+}
+2026 = {
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 1575
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 1375
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 32850
+    }
+}
+#Lado (244000/61000 POPS)
+1846 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 625
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 2200
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 36550
+    }
+}
+#uncolonized in 1836/under influence of Buganda
+#Kisumu (196000/49000POPS)
+2028 = {
+    aristocrats = {
+        culture = barot
+        religion = harami
+        size = 675
+    }
+
+    clergymen = {
+        culture = barot
+        religion = harami
+        size = 200
+    }
+
+    artisans = {
+        culture = barot
+        religion = harami
+        size = 1775
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 2300
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 40350
+    }
+     aristocrats = {
+        culture = barot
+        religion = harami
+        size = 825
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 950
+    }
+
+    soldiers = {
+        culture = barot
+        religion = harami
+        size = 3200
+    }
+
+    farmers = {
+        culture = barot
+        religion = harami
+        size = 46550
+    }
+}
+#Kapoeta (140000/35000 POPS)
+1847 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 525
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 1400
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 25800
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 6475
+    }
+
+}

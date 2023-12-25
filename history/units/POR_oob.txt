@@ -1,0 +1,111 @@
+DMN = {
+    value = -200
+}
+LIR = {
+    value = -200
+}
+DAL = {
+    value = -200
+}
+CLV = {
+    value = -200
+}
+BSQ = {
+    value = -200
+}
+CAT = {
+    value = -200
+}
+
+army = {
+    name = "Exército Alfazema"
+    location = 521
+    regiment = {
+        name= "1. Brigada de Infantaria"
+        type = infantry
+        home = 521
+    }
+
+    regiment = {
+        name= "2. Brigada de Infantaria"
+        type = infantry
+        home = 521
+    }
+    regiment = {
+        name= "3. Brigada de Infantaria"
+        type = infantry
+        home = 524
+    }
+
+    regiment = {
+        name= "1. Brigada de Artilharia"
+        type = artillery
+        home = 521
+    }
+
+    regiment = {
+        name= "2. Brigada de Artilharia"
+        type = artillery
+        home = 522
+    }
+    regiment = {
+        name= "3. Brigada de Artilharia"
+        type = artillery
+        home = 2134
+    }
+
+    regiment = {
+        name= "1. Brigada de Cavalaria"
+        type = cuirassier
+        home = 525
+    }
+
+}
+
+navy = {
+    name = "Marinha Pessoal Alfazema"
+    location = 521
+    ship = {
+        name= "Alfazema"
+        type = manowar
+    }
+    ship = {
+        name= "1o Navios de Transporte"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "2o Navios de Transporte"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3o Navios de Transporte"
+        type = clipper_transport
+    }
+    ship = {
+        name= "4o Navios de Transporte"
+        type = clipper_transport
+    }
+
+}
+
+leader = {
+    name = "Duke Óscar III of Alfazema"
+    picture = rus_gen_bebutov
+    type = land
+    date = 2811.8.20
+    background = coolminded
+    personality = elderly
+    prestige = 0.5
+    }
+
+leader = {
+    name = "Prince Óscar IV Alfazema"
+    picture = southamerican_admiral_2
+    type = sea
+    date = 2836.1.1
+    background = imperious
+    personality = uncommonly_young
+    prestige = 0.1
+    }

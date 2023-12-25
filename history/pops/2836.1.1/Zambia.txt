@@ -1,0 +1,496 @@
+#Bangwelu Region (308000)
+#uncolonized in 1836/ruled by Kazembe in 1836
+#Kitwe (88000/22000 POPS)
+790 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 5250
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 850
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 10000
+    }
+    
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 5000
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 6000
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 92750
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 42000
+    }
+}
+#Lilongwe (160000/40000 POPS)/dominated by Kazembe
+2067 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 350
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 950
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 27300
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 6000
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 8125
+    }
+
+}
+
+#Kafue Region (228000) #see Namibia.txt for balance of region
+#uncolonized in 1836/ruled by Lozi in 1836
+#Kabwe (28000/7000 POPS)
+2012 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 31575
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 14575
+    }
+
+
+}
+#Senanga (52000/13000 POPS)
+2013 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = barot
+        religion = animist
+        size = 10
+    }
+
+    officers = {
+        culture = barot
+        religion = animist
+        size = 65
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 500
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 125
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 8950
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 900
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 2000
+    }
+}
+#Kasempa (40000/10000 POPS)
+2014 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 325
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 4350
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 1800
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 3000
+    }
+}
+#Monzo (108000/27000 POPS)
+2015 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 475
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 20025
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 1800
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 3000
+    }
+
+}
+##West Barot
+#Kubanda (76000/19000 POPS)
+2011 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 750
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 14125
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 250
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 3600
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 11100
+    }
+
+}
+#Mavinga (80000/20000 POPS)
+2007 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 2400
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 1350
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 175
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 175
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 800
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 14450
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 3200
+    }
+}
+

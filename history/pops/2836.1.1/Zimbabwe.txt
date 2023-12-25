@@ -1,0 +1,304 @@
+#Mabarotland Region (296000)
+#uncolonized in 1836/dominated by Mutapa in 1836
+#Harare (68000/17000 POPS)
+2068 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 775
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 450
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 2750
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 6150
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 33675
+    }
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 43675
+    }
+}
+#Gweru (96000/24000 POPS)
+2069 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 1200
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 21850
+    }
+}
+#Hwange (96000/24000 POPS)
+2072 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 400
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 10950
+    }
+}
+#Kariba (36000/9000 POPS)
+2635 = {
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 1800
+    }
+}
+#Matabeleland Region (188000)
+#under the rule of Matabele in 1836
+#Bulawayo (136000/34000 POPS)
+2071 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = barot
+        religion = animist
+        size = 310
+    }
+
+    officers = {
+        culture = barot
+        religion = animist
+        size = 140
+    }
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 5400
+    }
+}
+#Uncolonized in 1836
+#Tete (104000/26000 POPS)
+2054 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 500
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 7125
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 3000
+    }
+}
+#Songo (164000/41000 POPS)
+2055 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 2000
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 450
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 50700
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 2000
+    }
+}
+#Zombo (104000/26000 POPS)
+2056 = {
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 550
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 650
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 35925
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 3000
+    }
+}

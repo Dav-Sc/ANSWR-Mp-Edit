@@ -1,0 +1,141 @@
+#Semireche Region (292000) #see persianhstan.txt for balance of region
+#under the "rule" of Kokand in 1836
+#Bishkek (236000/59000 POPS) #now part of Kirghizstan
+1189 = {
+    aristocrats = {
+        culture = persian
+        religion = sunni
+        size = 1800
+    }
+
+    clergymen = {
+        culture = persian
+        religion = sunni
+        size = 425
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 2000
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = persian
+        religion = sunni
+        size = 46775
+    }
+
+    aristocrats = {
+        culture = persian
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = persian
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = persian
+        religion = sunni
+        size = 6450
+    }
+
+    aristocrats = {
+        culture = mongol
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = mongol
+        religion = sunni
+        size = 13375
+    }
+}
+#Mawarannahr Region (112000) #see persianhstan.txt, Tajikistan.txt, persianistan.txt for balance of region
+#under the rule of Kokand in 1836
+#Osh (112000/28000 POPS) #Now part of Kirghizstan
+1203 = {
+    aristocrats = {
+        culture = persian
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = persian
+        religion = sunni
+        size = 18200
+    }
+
+    aristocrats = {
+        culture = persian
+        religion = sunni
+        size = 1375
+    }
+
+    clergymen = {
+        culture = persian
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 2900
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = persian
+        religion = sunni
+        size = 43550
+    }
+
+}

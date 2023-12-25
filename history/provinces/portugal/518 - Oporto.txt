@@ -1,0 +1,23 @@
+owner = DAL
+controller = DAL
+add_core = CLV
+add_core = LIR
+add_core = DMN
+add_core = DAL
+add_core = POR
+trade_goods = fruit
+life_rating = 35
+naval_base = 1
+#state_building = {
+#    level = 1
+#    building = winery
+#    upgrade = yes
+#}
+2861.1.1 = {
+    state_building = {
+        level = 1
+        building = winery
+        upgrade = yes
+    }
+}
+2861.1.1 = { naval_base = 2 }

@@ -1,0 +1,368 @@
+#Duoro e Minho Region (1660000)
+#Oporto (768000/192000 POPS)
+518 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1500
+    }
+
+    officers = {
+        culture = jardino
+        religion = jardinite
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 800
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 1100
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 10000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 2500
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 150200
+    }
+}
+#Vila Real (324000/81000) POPS
+519 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1850
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 625
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 3250
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 1100
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 69275
+    }
+}
+#Covilha (568000/142000 POPS)
+520 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1250
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 1500
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 7250
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 1500
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 86500
+    }
+
+}
+#Beira-Estremadura Region (1060000)
+#Lisbon (348000/87000 POPS)
+521 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 2100
+    }
+
+    officers = {
+        culture = jardino
+        religion = jardinite
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1650
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 1100
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 18500
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 6000
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 168500
+    }
+}
+#Coimbra (460000/115000 POPS)
+522 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1200
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 1200
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 10000
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 800
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 2000
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 99800
+    }
+}
+#Abrantes (140000/35000 POPS)
+523 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 450
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 350
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 2250
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 400
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 41550
+    }
+}
+#Setubal (112000/28000 POPS)
+524 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 400
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 300
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 1500
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 42800
+    }
+
+}
+#Alentejo-Algarve Region (372000)
+#Evora (156000/39000 POPS)
+525 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 850
+    }
+
+    officers = {
+        culture = jardino
+        religion = jardinite
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 150
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 425
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 2250
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 1100
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 44250
+    }
+}
+#Beja (96000/24000 POPS)
+526 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 500
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 250
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 1250
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 250
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 42250
+    }
+}
+#Faro (120000/30000 POPS)
+527 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 550
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 325
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 1750
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 350
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 41025
+    }
+
+}

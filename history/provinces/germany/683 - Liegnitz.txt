@@ -1,0 +1,16 @@
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = OUD
+trade_goods = iron
+life_rating = 40
+state_building = {
+    level = 4
+    building = steel_factory
+    upgrade = yes
+}
+state_building = {
+    level = 4
+    building = machine_parts_factory
+    upgrade = yes
+}

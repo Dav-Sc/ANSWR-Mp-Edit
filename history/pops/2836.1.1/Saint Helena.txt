@@ -1,0 +1,64 @@
+#South Atlantic Islands (4240/1060 POPS)
+#Ruled by Britain 1836
+#Saint Helena (4000/1000 POPS)
+2129 = {
+    bureaucrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 20
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 245
+    }
+}
+#Ascension (140/35 POPS)
+2130 = {
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 60
+    }
+}
+#Tristan da Cunha (100/25 POPS)
+2132 = {
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 60
+    }
+
+}
