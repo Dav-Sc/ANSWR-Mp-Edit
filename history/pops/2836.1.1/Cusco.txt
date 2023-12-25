@@ -6,7 +6,7 @@
 2286 = {
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 700
     }

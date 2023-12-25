@@ -45,25 +45,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 4600
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 12020
     }
@@ -213,25 +213,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 22020
     }
@@ -392,25 +392,25 @@
 #Antigua (25000/6250 POPS) #now independent
 2224 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 150
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 40
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
@@ -422,7 +422,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1080
     }
@@ -437,31 +437,31 @@
 #Leeuwarden (209200/52300 POPS)
 385 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1450
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1325
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 29175
     }
@@ -487,43 +487,43 @@
 #Belem (60000/15000 POPS)
 2410 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 325
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 7175
     }
@@ -596,31 +596,31 @@
 #Santarem (20000/5000 POPS)
 2411 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1000
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 600
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 7100
     }
@@ -640,31 +640,31 @@
 #Porlamar (16000/4000 POPS)
 2357 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1500
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5000
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 2500
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 17100
     }
@@ -684,43 +684,43 @@
 #Rotterdam (567000/141750 POPS)
 376 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1465
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 550
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3325
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3250
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 33175
     }
@@ -745,31 +745,31 @@
 #Barbados (100000/25000 POPS) #now independent
 2229 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1150
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 2500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 6325
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 2200
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 22175
     }
@@ -795,25 +795,25 @@
 #Dominica (19000/4750 POPS) #now independent
 2232 = {
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 2500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 19200
     }
@@ -827,31 +827,31 @@
 #Saint Lucia (18000/4500 POPS) #now independent
 2231 = {
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 2500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 11200
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 11200
     }
@@ -883,25 +883,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1520
     }
@@ -909,31 +909,31 @@
 #Turks & Caicos Islands (3000/750 POPS) #still a British colony
 2220 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1000
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1750
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 150
     }
@@ -945,7 +945,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 12455
     }
@@ -960,31 +960,31 @@
 2234 = {
 
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 60
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1250
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 750
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 150
     }
@@ -996,7 +996,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 9455
     }
@@ -1011,19 +1011,19 @@
 #Obidos (8000/2000 POPS)
 2412 = {
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
@@ -1035,7 +1035,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5400
     }
@@ -1051,25 +1051,25 @@
 2235 = {
 
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1120
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 125
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 38400
     }
@@ -1087,13 +1087,13 @@
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 80
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 150
     }
@@ -1104,7 +1104,7 @@
 #Tefe (4000/1000 POPS)
 2404 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
@@ -1122,25 +1122,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 6020
     }
@@ -1148,7 +1148,7 @@
 #Borba (12000/3000 POPS)
 2405 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
@@ -1166,25 +1166,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 6020
     }
@@ -1210,25 +1210,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3520
     }
@@ -1237,25 +1237,25 @@
 #Cachimbo (12000/3000 POPS)
 2413 = {
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1200
     }
@@ -1295,13 +1295,13 @@
 #Tobago (15000/3750 POPS)
 2238 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
@@ -1319,7 +1319,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3020
     }
@@ -1327,13 +1327,13 @@
 #Cachoeira (8000/2000 POPS)
 2403 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
@@ -1351,7 +1351,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 2020
     }
@@ -1359,13 +1359,13 @@
 #Sao Tome (16000/4000 POPS)
 1954 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 400
     }
@@ -1383,7 +1383,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5015
     }

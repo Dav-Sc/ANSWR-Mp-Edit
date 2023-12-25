@@ -1001,7 +1001,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 320
     }
@@ -1046,7 +1046,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3455
     }
@@ -1102,7 +1102,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3455
     }
@@ -1177,7 +1177,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1020
     }
